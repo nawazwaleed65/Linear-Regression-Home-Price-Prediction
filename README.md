@@ -3,6 +3,7 @@ This repository contains a Python implementation of Linear Regression with one v
 The example focuses on a real-world dataset from Monroe Township, New Jersey, and demonstrates the end-to-end process of building a machine learning model.
 
 Key Features:
+
 Data Preparation: Processes input data from CSV and visualizes it using scatter plots.
 
 Model Implementation: Demonstrates a simple implementation of Linear Regression using Python and libraries like NumPy.
@@ -16,6 +17,7 @@ Modular Design: Organized into reusable Python scripts and Jupyter notebooks for
 Saved Models: Stores model weights for easy reuse.
 
 Dependencies:
+
 Python (>=3.8)
 
 NumPy
